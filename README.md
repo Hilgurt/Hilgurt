@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hilgurt(at)gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: The last time I programmed for a living... was 25 years ago! )))
+- ⚡ Fun fact: The last time I programmed for a living was... 25 years ago! )))
 
 <!---
 Hilgurt/Hilgurt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
